@@ -13,9 +13,10 @@
 		<div class="from-group">
 			<label>Password:</label><br>
 			<input type="password" name="password" required>
-		</div>
+		</div><br>
 		<input type="submit" name="submit" value="Login">
-	</form>
+	</form><br>
+	<a href="register.php">Register</a>
 </div>
 </body>
 </html>

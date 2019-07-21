@@ -1,4 +1,6 @@
-<?php require("./db.php"); ?>
+<?php require("./db.php");
+session_start(); 
+?>
 <?php 
 	
 	if(isset($_POST["submit"])){
